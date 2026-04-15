@@ -19,19 +19,6 @@ Mình là một người đam mê công nghệ và đang trong hành trình khá
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
----
-
-### 📊 GitHub Stats
-![Hai Anh's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
 ### 📫 Kết nối với mình:
 *   **Email:** 25020020@vnu.edu.vn
 *   **LinkedIn:** Nguyễn Hải Anh (https://www.linkedin.com/in/h%E1%BA%A3i-anh-nguy%E1%BB%85n-5b3028386/)
