@@ -20,7 +20,7 @@ Mình là một người đam mê công nghệ và đang trong hành trình khá
 ---
 
 ### 📫 Kết nối với mình:
-*   **Email:** 25020020@vnu.edu.vn
+*   **Email:** haianh.dev.nguyen@gmail.com
 *   **LinkedIn:** Nguyễn Hải Anh (https://www.linkedin.com/in/h%E1%BA%A3i-anh-nguy%E1%BB%85n-5b3028386/)
 *   **Facebook:** Nguyễn Hải Anh (https://www.facebook.com/zuka.hai.3382?locale=vi_VN)
 
